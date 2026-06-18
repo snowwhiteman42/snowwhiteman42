@@ -24,5 +24,5 @@ language models, design prompting and AI workflows, and automate data work in Py
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/smirnovilia/
 - Google Scholar: https://scholar.google.com/citations?user=_plFef8AAAAJ&hl=en
-- YouTube: https://www.youtube.com/@Ilia_Smirnov
+- YouTube: https://www.youtube.com/@Ilia_Smirnov/videos
 
