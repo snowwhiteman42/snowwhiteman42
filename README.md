@@ -22,6 +22,7 @@ language models, design prompting and AI workflows, and automate data work in Py
 `SQL` · `Power BI (Microsoft PL-300 track)` — building toward BI / data-analytics reporting.
 
 ### 📫 Connect
-- LinkedIn: <!-- add your LinkedIn URL here -->
-- (Science) Google Scholar / ResearchGate: <!-- optional links -->
+- LinkedIn: https://www.linkedin.com/in/smirnovilia/
+- Google Scholar: https://scholar.google.com/citations?user=_plFef8AAAAJ&hl=en
+- YouTube: https://www.youtube.com/@Ilia_Smirnov
 
