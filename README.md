@@ -11,12 +11,13 @@ language models, design prompting and AI workflows, and automate data work in Py
 ### 🚀 Featured
 
 - **[llm-cv-tailoring-engine](https://github.com/snowwhiteman42/llm-cv-tailoring-engine)** — a system-prompt engine that turns a job description + structured evidence into a tailored, *truthful* one-page CV with a full numerical audit. Truth-as-constraint design, non-compensatory fit scoring, 17-gate validation.
-- **[Fortune_telling_bot](https://github.com/snowwhiteman42/Fortune_telling_bot)** — LLM-powered Telegram bot: API integration & prompt design.
-- **[Luck_coach_bot](https://github.com/snowwhiteman42/Luck_coach_bot)** — Telegram bot game with SQLite stats & data persistence (async Python).
+- **[ai-enablement-toolkit](https://github.com/snowwhiteman42/ai-enablement-toolkit)** — a practical toolkit for reviewing and improving Custom GPT prompts: prompt cards, test cases, guardrails, and failure-pattern logs for human-in-the-loop validation.
+- **[math-arena](https://github.com/snowwhiteman42/math-arena)** — a browser-based mental math trainer for consulting/quant-trading interview prep: adaptive difficulty, timed drills, 40+ pattern-specific task generators.
+- **[Fortune_telling_bot](https://github.com/snowwhiteman42/Fortune_telling_bot)** & **[Luck_coach_bot](https://github.com/snowwhiteman42/Luck_coach_bot)** — two Telegram bot prototypes: one LLM-powered (prompt design, i18n, voice input), one deterministic (SQLite stats, data persistence).
 
 ### 🛠️ Skills
-`Python` · `LLM evaluation` · `Prompt engineering` · `Telegram Bot API` · `LLM APIs (DeepSeek/OpenAI)` ·
-`MCP servers` · `Claude Code` · `Whisper / voice-to-text` · `Bash` · `Excel/VBA automation` · `data cleaning & analysis`
+`Python` · `LLM evaluation` · `Prompt engineering` · `Custom GPT / GPT Builder` · `Telegram Bot API` · `LLM APIs (DeepSeek/OpenAI)` ·
+`MCP servers` · `Claude Code` · `SQLite / relational data` · `Whisper / voice-to-text` · `Bash` · `Excel/VBA automation` · `data cleaning & analysis`
 
 ### 🌱 Currently learning
 `SQL` · `Power BI (Microsoft PL-300 track)` — building toward BI / data-analytics reporting.
